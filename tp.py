@@ -1,1 +1,0 @@
-print("into au tp ")
